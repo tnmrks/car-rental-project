@@ -1,0 +1,135 @@
+{
+    "Premium-Cars": [
+        {
+            "id": "1",
+            "kode": "A1",
+            "nama": "Toyota Hiace",
+            "harga_sewa": "IDR 1.160.000/Hari",
+            "is_ready": "true",
+            "gambar": "hiace.png"
+        },
+        {
+            "id": "2",
+            "kode": "A2",
+            "nama": "Toyota Fortuner",
+            "harga_sewa": "IDR 1.550.000/Hari",
+            "is_ready": "true",
+            "gambar": "fortune.png"
+        },
+        {
+            "id": "3",
+            "kode": "A3",
+            "nama": "Toyota Alphard",
+            "harga_sewa": "IDR 2.350.000/Hari",
+            "is_ready": "true",
+            "gambar": "alpha.png"
+        },
+        {
+            "id": "4",
+            "kode": "A4",
+            "nama": "Mitsubishi Pajero Sport",
+            "harga_sewa": "IDR 1.650.000/Hari",
+            "is_ready": "true",
+            "gambar": "pajero.png"
+        },
+        {
+            "id": "5",
+            "kode": "A5",
+            "nama": "Mercedes-Benz C300",
+            "harga_sewa": "IDR 2.350.000/Hari",
+            "is_ready": "true",
+            "gambar": "mercie.png"
+        }
+    ],
+    "Cars": [
+        {
+            "id": "1",
+            "kode": "A1",
+            "nama": "Toyota Hiace",
+            "harga_sewa": "IDR 1.160.000/Hari",
+            "is_ready": "true",
+            "gambar": "hiace.png"
+        },
+        {
+            "id": "2",
+            "kode": "A2",
+            "nama": "Toyota Fortuner",
+            "harga_sewa": "IDR 1.550.000/Hari",
+            "is_ready": "true",
+            "gambar": "fortune.png"
+        },
+        {
+            "id": "3",
+            "kode": "A3",
+            "nama": "Toyota Alphard",
+            "harga_sewa": "IDR 2.350.000/Hari",
+            "is_ready": "true",
+            "gambar": "alpha.png"
+        },
+        {
+            "id": "4",
+            "kode": "A4",
+            "nama": "Mitsubishi Pajero Sport",
+            "harga_sewa": "IDR 1.650.000/Hari",
+            "is_ready": "true",
+            "gambar": "pajero.png"
+        },
+        {
+            "id": "5",
+            "kode": "A5",
+            "nama": "Mercedes-Benz C300",
+            "harga_sewa": "IDR 2.350.000/Hari",
+            "is_ready": "true",
+            "gambar": "mercie.png"
+        },
+        {
+            "id": "6",
+            "kode": "A6",
+            "nama": "Toyota Kijang Innova",
+            "harga_sewa": "IDR 750.000/Hari",
+            "is_ready": "true",
+            "gambar": "kijang.png"
+        },
+        {
+            "id": "7",
+            "kode": "A7",
+            "nama": "Honda CR-V",
+            "harga_sewa": "IDR 1.650.000/Hari",
+            "is_ready": "true",
+            "gambar": "crv.png"
+        },
+        {
+            "id": "8",
+            "kode": "A8",
+            "nama": "Daihatsu Xenia",
+            "harga_sewa": "IDR 400.000/Hari",
+            "is_ready": "true",
+            "gambar": "xenia.png"
+        },
+        {
+            "id": "9",
+            "kode": "A9",
+            "nama": "Mitsubishi Xpander",
+            "harga_sewa": "IDR 850.000/Hari",
+            "is_ready": "true",
+            "gambar": "xpander.png"
+        },
+        {
+            "id": "10",
+            "kode": "A10",
+            "nama": "Honda Mobilio",
+            "harga_sewa": "IDR 500.000/Hari",
+            "is_ready": "true",
+            "gambar": "mobilio.png"
+        },
+        {
+            "id": "11",
+            "kode": "A11",
+            "nama": "Toyota Rush",
+            "harga_sewa": "IDR 450.000/Hari",
+            "is_ready": "true",
+            "gambar": "rush.png"
+        }
+    ],
+    "Garasi": []
+}
