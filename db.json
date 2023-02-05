@@ -14,7 +14,7 @@
             "nama": "Toyota Fortuner",
             "harga_sewa": "IDR 1.550.000/Hari",
             "is_ready": "true",
-            "gambar": "fortune.png"
+            "gambar": "fortuner.png"
         },
         {
             "id": "3",
@@ -22,7 +22,7 @@
             "nama": "Toyota Alphard",
             "harga_sewa": "IDR 2.350.000/Hari",
             "is_ready": "true",
-            "gambar": "alpha.png"
+            "gambar": "alphard.png"
         },
         {
             "id": "4",
@@ -38,7 +38,7 @@
             "nama": "Mercedes-Benz C300",
             "harga_sewa": "IDR 2.350.000/Hari",
             "is_ready": "true",
-            "gambar": "mercie.png"
+            "gambar": "merice.png"
         }
     ],
     "Cars": [
@@ -56,7 +56,7 @@
             "nama": "Toyota Fortuner",
             "harga_sewa": "IDR 1.550.000/Hari",
             "is_ready": "true",
-            "gambar": "fortune.png"
+            "gambar": "fortuner.png"
         },
         {
             "id": "3",
@@ -64,7 +64,7 @@
             "nama": "Toyota Alphard",
             "harga_sewa": "IDR 2.350.000/Hari",
             "is_ready": "true",
-            "gambar": "alpha.png"
+            "gambar": "alphard.png"
         },
         {
             "id": "4",
@@ -80,7 +80,7 @@
             "nama": "Mercedes-Benz C300",
             "harga_sewa": "IDR 2.350.000/Hari",
             "is_ready": "true",
-            "gambar": "mercie.png"
+            "gambar": "merice.png"
         },
         {
             "id": "6",
@@ -88,7 +88,7 @@
             "nama": "Toyota Kijang Innova",
             "harga_sewa": "IDR 750.000/Hari",
             "is_ready": "true",
-            "gambar": "kijang.png"
+            "gambar": "innova.png"
         },
         {
             "id": "7",
